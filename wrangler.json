@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "old-math-0c3f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cdf1e1eb-bbce-4aca-9389-37cba3425221",
+      "database_name": "yellow-smoke-0487-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
